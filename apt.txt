@@ -4,7 +4,6 @@ cowsay
 sl
 neovim
 tree
-cal
 man
 figlet
 toilet
