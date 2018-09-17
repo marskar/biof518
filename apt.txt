@@ -7,6 +7,5 @@ tree
 man
 figlet
 toilet
-banner
 cmatrix
 yes
