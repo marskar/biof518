@@ -2,3 +2,4 @@ lolcat
 fortune
 cowsay
 sl
+nvim
