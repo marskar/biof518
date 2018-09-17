@@ -8,4 +8,4 @@ man
 figlet
 toilet
 cmatrix
-yes
+rig
