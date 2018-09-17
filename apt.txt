@@ -9,3 +9,5 @@ figlet
 toilet
 cmatrix
 rig
+espeak
+
