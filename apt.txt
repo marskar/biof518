@@ -3,3 +3,6 @@ fortune
 cowsay
 sl
 neovim
+tree
+cal
+man
