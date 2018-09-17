@@ -9,3 +9,4 @@ figlet
 toilet
 banner
 cmatrix
+yes
