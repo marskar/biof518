@@ -2,4 +2,4 @@ lolcat
 fortune
 cowsay
 sl
-nvim
+neovim
